@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "",
-    "type": "mojang"
+    "username": "hesiodosbot",
+    "password": "Hk007463!",
+    "type": "mojang
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "game4.falixserver.net",
+    "port": 11637,
+    "version": "1.19.2
   },
 
   "position": {
@@ -20,12 +20,12 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "12345678"
+      "enabled": true
+      "password": "Hk007463!"
     },
 
     "anti-afk": {
-      "enabled": false,
+      "enabled": true
       "sneak": false
     },
 
